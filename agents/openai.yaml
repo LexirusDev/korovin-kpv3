@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡洛文的课（奶牛的课）"
+  short_description: "仅用于 КПВ3《俄罗斯文学经典的国际语境》讲义的俄语重音与逐页中文译注。"
+  default_prompt: "Use $korovin-kpv3 为这门课处理讲义：保留俄语原页版式并追加逐页中文译注。"
